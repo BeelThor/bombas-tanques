@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: 
+Disallow: /images/*
+Disallow: /views/css/*
+
+Sitemap: https://bombasytanques.com/sitemap.xml
